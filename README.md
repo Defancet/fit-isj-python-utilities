@@ -1,2 +1,1 @@
-# isj-projects
-ISJ projekty
+# Skriptovací jazyky projekty
