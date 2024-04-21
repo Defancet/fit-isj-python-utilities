@@ -1,4 +1,4 @@
-ISJ Python Utilities Collection
+# ISJ Python Utilities Collection
 
 ## Author
 - **Name:** Maksim Kalutski
